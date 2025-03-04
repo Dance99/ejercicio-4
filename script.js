@@ -15,3 +15,5 @@ num.forEach((num, index) => {
 });
 //esta funcion ejecutara cada elemento
 
+//link: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+//link: https://www.freecodecamp.org/espanol/news/foreach-en-javascript-como-recorrer-un-arreglo-en-js/
